@@ -2,15 +2,7 @@
 
 A Flutter dictionary app project.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-11-23 141854](https://github.com/user-attachments/assets/4cb5d0fa-23dc-4d63-bfe5-335eb070cb41)
+![Screenshot 2024-11-23 141935](https://github.com/user-attachments/assets/73e4d83d-03b1-4f9f-b0e3-780fdd26eb28)
